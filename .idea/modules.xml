@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DEMO/Day1_Demo/Day1_Demo.iml" filepath="$PROJECT_DIR$/JAVA_DEMO/Day1_Demo/Day1_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DEMO/Day2_Demo/Day2_Demo.iml" filepath="$PROJECT_DIR$/JAVA_DEMO/Day2_Demo/Day2_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DEMO/Day3_Demo/Day3_Demo.iml" filepath="$PROJECT_DIR$/JAVA_DEMO/Day3_Demo/Day3_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DEMO/Day4_Demo/Day4_Demo.iml" filepath="$PROJECT_DIR$/JAVA_DEMO/Day4_Demo/Day4_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day5.iml" filepath="$PROJECT_DIR$/Day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_DEMO/Day5_Demo/Day5_Demo.iml" filepath="$PROJECT_DIR$/JAVA_DEMO/Day5_Demo/Day5_Demo.iml" />
+    </modules>
+  </component>
+</project>
+
